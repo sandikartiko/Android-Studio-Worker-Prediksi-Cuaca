@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tgs6_1918051_worker</string>
+    <string-array name="nama_kota">
+        <item>JAYAPURA</item>
+        <item>LUMAJANG</item>
+        <item>SURABAYA</item>
+        <item>PROBOLINGGO</item>
+        <item>KALIMANTAN</item>
+    </string-array>
+
+</resources>
+
